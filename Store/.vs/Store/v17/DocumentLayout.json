@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ProjRepo\\Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{764FC37A-77B5-4DD3-95F4-193AB091FAA7}|Store\\Store.csproj|c:\\users\\admin\\desktop\\projrepo\\store\\store\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{764FC37A-77B5-4DD3-95F4-193AB091FAA7}|Store\\Store.csproj|solutionrelative:store\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764FC37A-77B5-4DD3-95F4-193AB091FAA7}|Store\\Store.csproj|c:\\users\\admin\\desktop\\projrepo\\store\\store\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764FC37A-77B5-4DD3-95F4-193AB091FAA7}|Store\\Store.csproj|solutionrelative:store\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjRepo\\Store\\Store\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Store\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjRepo\\Store\\Store\\MainWindow.xaml",
+              "RelativeToolTip": "Store\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T10:50:52.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjRepo\\Store\\Store\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Store\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjRepo\\Store\\Store\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Store\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:50:52.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1554,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
