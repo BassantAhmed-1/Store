@@ -13,9 +13,10 @@
                   AutoGenerateColumns="False" 
                   Margin="20" 
                   CanUserAddRows="False">
-            <DataGrid.Columns>
+            <DataGrid.Columns >
                 <DataGridTextColumn Header="Product Name" Binding="{Binding ProductName}" Width="*"/>
                 <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}" Width="*"/>
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="*"/>
             </DataGrid.Columns>
         </DataGrid>
 

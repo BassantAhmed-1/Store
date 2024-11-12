@@ -39,25 +39,37 @@ namespace WpfApp13
         {
             try
             {
-                if (!int.TryParse(ProductIdTextBox.Text, out int productId))
+                // Check if ProductIdTextBox is not empty
+                if (string.IsNullOrWhiteSpace(ProductIdTextBox.Text))
                 {
                     MessageBox.Show("Please enter a valid product ID.");
                     return;
                 }
 
-                if (!int.TryParse(CountTextBox.Text, out int quantity) || quantity <= 0)
+                // Check if CountTextBox is not empty
+                if (string.IsNullOrWhiteSpace(CountTextBox.Text))
                 {
                     MessageBox.Show("Please enter a valid quantity.");
                     return;
                 }
 
-                var foundProduct = db.Products.FirstOrDefault(product => product.ProductID == productId);
+                // Attempt to parse the inputs
+                int productId = int.Parse(ProductIdTextBox.Text);
+                int quantity = int.Parse(CountTextBox.Text);
+               
+                if (quantity <= 0)
+                {
+                    MessageBox.Show("Quantity requred ");
+                    return;
+                }
 
+                var foundProduct = db.Products.FirstOrDefault(product => product.ProductID == productId);
+                decimal prices = quantity*foundProduct.Price;
                 if (foundProduct != null)
                 {
                     // Add item to cart
-                    cartItems.Add(new CartItem { ProductName = foundProduct.ProductName, Quantity = quantity });
-                    MessageBox.Show($"Added {quantity} of {foundProduct.ProductName} to cart.");
+                    cartItems.Add(new CartItem { ProductName = foundProduct.ProductName, Quantity = quantity,Price= prices });
+                    MessageBox.Show($"Added {quantity} of {foundProduct.ProductName} to cart");
                 }
                 else
                 {
@@ -66,6 +78,10 @@ namespace WpfApp13
 
                 datagrid.ItemsSource = db.Products.ToList();
             }
+            //catch (FormatException)
+            //{
+            //    MessageBox.Show("Please enter valid numeric values for product ID and quantity.");
+            //}
             catch (Exception ex)
             {
                 MessageBox.Show($"An error occurred: {ex.Message}");

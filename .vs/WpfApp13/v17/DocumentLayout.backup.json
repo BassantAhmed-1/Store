@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|c:\\users\\omar.fouad\\desktop\\wpfapp13\\wpfapp13\\prodcutlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\prodcutlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\prodcutlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\prodcutlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\prodcutlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\prodcutlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\cartpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\cartpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\prodcutlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\prodcutlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|c:\\users\\omar.fouad\\desktop\\wpfapp13\\wpfapp13\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|solutionrelative:wpfapp13\\first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C959E2A0-4670-42BD-9745-737C35827591}|WpfApp13\\WpfApp13.csproj|C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\wpfapp13\\first.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -50,30 +50,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CartPage.xaml",
               "DocumentMoniker": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\CartPage.xaml",
               "RelativeDocumentMoniker": "WpfApp13\\CartPage.xaml",
               "ToolTip": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\CartPage.xaml",
               "RelativeToolTip": "WpfApp13\\CartPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T07:54:50.307Z"
+              "WhenOpened": "2024-11-12T07:54:50.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Model1.Context.cs",
               "DocumentMoniker": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\Model1.Context.cs",
               "RelativeDocumentMoniker": "WpfApp13\\Model1.Context.cs",
               "ToolTip": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\Model1.Context.cs",
               "RelativeToolTip": "WpfApp13\\Model1.Context.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:29:07.627Z"
+              "WhenOpened": "2024-11-12T07:29:07.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -81,50 +83,53 @@
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\Model1.edmx",
               "RelativeDocumentMoniker": "WpfApp13\\Model1.edmx",
-              "ToolTip": "C:\\Users\\omar.fouad\\source\\repos\\WpfApp13\\WpfApp13\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\source\\repos\\WpfApp13\\WpfApp13\\Model1.edmx [Diagram1]",
+              "ToolTip": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WpfApp13\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-07T11:30:54.767Z"
+              "WhenOpened": "2024-11-07T11:30:54.767Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CartPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\CartPage.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp13\\CartPage.xaml.cs",
               "ToolTip": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\CartPage.xaml.cs",
               "RelativeToolTip": "WpfApp13\\CartPage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvxEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:55:13.104Z"
+              "WhenOpened": "2024-11-12T07:55:13.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "prodcutlist.xaml.cs",
               "DocumentMoniker": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\prodcutlist.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp13\\prodcutlist.xaml.cs",
               "ToolTip": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\prodcutlist.xaml.cs",
               "RelativeToolTip": "WpfApp13\\prodcutlist.xaml.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAIwDkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEYAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T10:03:21.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "prodcutlist.xaml",
               "DocumentMoniker": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\prodcutlist.xaml",
               "RelativeDocumentMoniker": "WpfApp13\\prodcutlist.xaml",
               "ToolTip": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\prodcutlist.xaml",
               "RelativeToolTip": "WpfApp13\\prodcutlist.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-07T07:23:03.042Z"
+              "WhenOpened": "2024-11-07T07:23:03.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "first.xaml.cs",
               "DocumentMoniker": "C:\\Users\\omar.fouad\\Desktop\\WpfApp13\\WpfApp13\\first.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp13\\first.xaml.cs",
